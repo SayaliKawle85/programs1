@@ -18,7 +18,8 @@ public class EmployeeServices {
 		empList.add(new Employee(108, "Arnav", 96000, "Analyst", "Chennai"));
 		empList.add(new Employee(109, "Soni", 85000, "Manager", "Mumbai"));
 		empList.add(new Employee(110, "Seema", 95000, "Analyst", "Hyderabad"));
-           empList.add(new Employee(111, "Mehek", 25000, "java developer", "Madhya pradesh"));
+                empList.add(new Employee(111, "Mehek", 25000, "java developer", "Madhya pradesh"));
+		empList.add(new Employee(112, "Vishal", 45000, "Analyst", "Delhi"));
 
 		return empList;
 	}
